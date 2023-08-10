@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Matilda
+- 👀 I’m interested in solving statistical problems
+- 🌱 I’m currently learning Statistics
+- 💞️ I’m looking to collaborate on working with a Tech company
+- 📫 You can reach me on mkwaning161@gmail.com
